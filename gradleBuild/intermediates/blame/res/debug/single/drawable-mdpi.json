@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/swifty/Project/StudioProject/tensorflow/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/swifty/Project/StudioProject/tensorflow/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/swifty/Project/StudioProject/tensorflow/gradleBuild/intermediates/res/merged/debug/drawable-mdpi/ic_action_info.png",
+        "source": "/Users/swifty/Project/StudioProject/tensorflow/res/drawable-mdpi/ic_action_info.png"
+    }
+]
